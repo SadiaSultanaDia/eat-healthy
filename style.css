@@ -37,4 +37,14 @@ font-family: 'Roboto', sans-serif;
     border-radius: 20px;
     color: black;
     font-weight: 700;
+    
+}
+.clr-green{
+    color: palevioletred;
+}
+.bg{
+    background-image: url(images/shapes/7.png);
+}
+#iam{
+    width: 50%;
 }
