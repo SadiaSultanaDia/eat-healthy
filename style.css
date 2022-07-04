@@ -7,5 +7,35 @@ font-family: 'Roboto', sans-serif;
     color: orange;
 }
 .gray{
-    color: grey;
+    color: rgb(105, 96, 96);
+    font-size: 40px;
+    
+}
+
+
+.web{
+    display: flex;
+    margin: 80px;
+    
+}
+.goat{
+    width: 100%;
+    padding: 5px;
+    
+}
+
+.web img{
+    width: 50%;
+}
+.s{
+    color: rgb(105, 96, 96);
+    padding-bottom: 5%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: black;
+    font-weight: 700;
 }
