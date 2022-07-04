@@ -3,6 +3,7 @@ body{
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
 }
+
 .orange{
     color: orange;
 }
@@ -10,9 +11,7 @@ font-family: 'Roboto', sans-serif;
     color: rgb(105, 96, 96);
     font-size: 40px;
     
-}
-
-
+}                                                                                                                                               
 .web{
     display: flex;
     margin: 80px;
