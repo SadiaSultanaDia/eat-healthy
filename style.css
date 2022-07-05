@@ -44,7 +44,20 @@ font-family: 'Roboto', sans-serif;
 }
 .bg{
     background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
 }
-#iam{
-    width: 50%;
+.goat1 img{
+    width: 30%;
+}
+.web1{
+    width: 100%;
+    padding: 10px 40px;
+}
+.boat{
+    display: flex;
+    margin: 110px;
+    padding: 20px 20px 20px 20px;
+}
+.p{
+    padding-bottom: 5%;
 }
